@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JaredPL
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning HTML, CSS and JS.
